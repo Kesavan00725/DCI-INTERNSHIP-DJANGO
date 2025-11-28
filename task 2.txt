@@ -1,0 +1,38 @@
+Task 2 ------>
+
+Objective
+
+Build a basic blog application where users can:
+
+Create a blog post
+
+View blog posts
+
+Edit/Update blog posts
+
+Delete blog posts
+
+Requirements
+Blog Post Fields
+
+Title
+
+Author
+
+Content
+
+Created Date (auto)
+
+Updated Date (auto)
+
+Features
+
+Homepage showing list of all blog posts
+
+Detail page to view a single post
+
+Form pages for Create and Edit
+
+Delete confirmation page
+
+Django Admin Panel configured to manage posts
